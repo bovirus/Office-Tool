@@ -597,7 +597,7 @@
     <sys:String x:Key="File_Type.PowerPoint_XMLPresentation">Presentazione XML PowerPoint</sys:String>
     <sys:String x:Key="File_Type.PowerPoint_OpenXMLPicturePresentation">Presentazione immagini PowerPoint</sys:String>
     <sys:String x:Key="File_Type.PowerPoint_OpenXMLStrictPresentation">Presentazione Strict Open XML</sys:String>
-    <sys:String x:Key="File_Type.PowerPoint_ODP">Presentazionbe OpenDocument</sys:String>
+    <sys:String x:Key="File_Type.PowerPoint_ODP">Presentazione OpenDocument</sys:String>
     <!-- Excel -->
     <sys:String x:Key="File_Type.Excel_Workbooks">Cartelle di lavoro</sys:String>
     <sys:String x:Key="File_Type.Excel_XLSX">Cartella di lavoro Excel</sys:String>
@@ -948,7 +948,7 @@
     <sys:String x:Key="Err_Reading_Info">Si è verificato un'errore durante la lettura delle informazioni di Office.</sys:String>
     <sys:String x:Key="Err_Saving_Info">Si è verificato un'errore durante il salvataggio delle informazioni di Office.</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Download">Impossibile scaricare Office, assicurati di aver aggiunto un prodotto o una lingua, quindi riprova.</sys:String>
-    <sys:String x:Key="Err_Start_Deploy.Deploy">Impossibile distribuire Office, assicurati di aver impostato correttamente le impostazioni di base, quindi riprova.</sys:String>
+    <sys:String x:Key="Err_Start_Deploy.Deploy">Impossibile distribuire Office, assicurati di aver impostato correttamente la configurazione di distribuzione, quindi riprova.</sys:String>
     <sys:String x:Key="Err_Start_Deploy.Preferences">Impossibile impostare le preferenze dell'applicazione, assicurati di aver impostato correttamente le preferenze dell'applicazione, quindi riprova.</sys:String>
     <!-- {0} means product name, for example: Microsoft 365 Apps for Enterprise. -->
     <sys:String x:Key="Err_Start_Deploy_ProductNotSupported">{0} non è supportato in questa versione di Office.</sys:String>
